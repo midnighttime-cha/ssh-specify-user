@@ -1,4 +1,4 @@
-# ตั้งค่า SSH ราย User ให้ใช้ Password กรณี Server ของเราเชื่อมต่อด้วย Public key
+# ตั้งค่า SSH ราย User ให้ใช้ได้ Password กรณี Server ของเราเชื่อมต่อด้วย Public key
 
 เปิดไฟล์ต่อไปนี้
 ```bash
